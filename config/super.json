@@ -1,0 +1,10 @@
+[
+
+    {
+        'module' : 'dir_lister'
+    },
+    {
+        'modules' : 'enviroment'
+    }
+
+]
