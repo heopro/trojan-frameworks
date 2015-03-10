@@ -1,10 +1,10 @@
 [
 
     {
-        'module' : 'dir_lister'
+        "module" : "dir_lister"
     },
     {
-        'modules' : 'enviroment'
+        "modules" : 'enviroment"
     }
 
 ]
